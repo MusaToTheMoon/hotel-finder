@@ -1,11 +1,9 @@
-//============================================================================
-// Name         : hashtable.hpp
-// Author       : Khalid Mengal
-// Version      : 1.0
-// Date Created : 25-04-2023
-// Date Modified: 23-08-2023 
-// Description  : HashTable class implementation
-//============================================================================
+/**
+ * Name         : hashtable.hpp
+ * Author       : Muhammad Musa Khan
+ * Description  : HashTable class implementation
+*/
+
 #pragma once 
 #include<iostream>
 #include<fstream>
@@ -51,5 +49,3 @@ class HashTable
 		void dump(string path);
 		~HashTable();
 };
-//=================================================================
-// implement the methods list above in a file called hashtable.cpp
