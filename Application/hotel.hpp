@@ -1,11 +1,9 @@
-//============================================================================
-// Name         : hotel.hpp
-// Author       : Khalid Mengal
-// Version      : 1.0
-// Date Created : 25-04-2023
-// Date Modified: 23-08-2023 
-// Description  : 
-//============================================================================
+/**
+ * Name         : hotel.hpp
+ * Author       : Muhammad Musa Khan
+ * Description  : Hotel class implementation
+*/
+
 #pragma once
 #include<iostream>
 #include<string>
@@ -34,5 +32,3 @@ class Hotel
 		void print2(); // used in findAll function
 		void operator=(const Hotel& other); // used in HashTable::insert() function to modify an existing record by simply overwriting it
 };
-//==========================================================
-//implement the methods list above in a file called hotel.cpp
