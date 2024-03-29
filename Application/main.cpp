@@ -1,11 +1,8 @@
-//============================================================================
-// Name         : Hotel Finder
-// Author       : Khalid Mengal
-// Version      : 1.0
-// Date Created : 25-04-2023
-// Date Modified: 23-08-2023 
-// Description  : 
-//============================================================================
+/**
+ * Name         : main.cpp
+ * Author       : Muhammad Musa Khan
+ * Description  : Hotel Finder main program
+*/
 
 #include<iostream>
 #include<exception>
