@@ -12,7 +12,6 @@
 #include<queue>
 #include<vector>
 #include<tuple>
-// #include<algorithm>
 #include<type_traits>
 
 using namespace std;
@@ -73,7 +72,6 @@ class BST
 		bool checkFindNodeReturn(tuple<Node<T1,T2>*, bool> findNodeTuple, T1 key); // to check if the node returned by findNode is the node we were looking for, or if it's the parent of the node we were looking for since the node we were looking for doesn't exist
 };
 //==========================================
-//write implementation of all methods below
 
 //=========== Node =========================
 //==========================================
