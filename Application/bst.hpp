@@ -1,9 +1,8 @@
 /**
- * @file lab8.cpp
- * @author Khalid Mengal
+ * @file bst.hpp
+ * @author Muhammad Musa Khan
  * @description BST Tree implementation in C++
- * @date 2022-11-03
- */
+*/
 #pragma once
 #include<iostream>
 #include<cstdlib>
